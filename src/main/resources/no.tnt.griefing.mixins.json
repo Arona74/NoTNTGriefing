@@ -2,7 +2,7 @@
   "required": true,
   "minVersion": "0.8",
   "package": "net.no.tnt.griefing.mixin",
-  "compatibilityLevel": "JAVA_17",
+  "compatibilityLevel": "JAVA_21",
   "mixins": [
     "BedBlockMixin",
     "EndCrystalEntityMixin",
